@@ -1,4 +1,4 @@
-README for Authentication System (Login and Signup) and Tax Management System
+Authentication System (Login and Signup) and Tax Management System
 
 This README gives a summary of the Authentication System, its design decisions, and how it complies with the assignment's specifications. The system includes user registration and login functionality, ensuring secure password handling and authentication.
 
