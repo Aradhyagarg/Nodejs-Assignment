@@ -16,11 +16,12 @@ The project is delivered as a Docker project, following best practices for conta
 
 bash
 Copy code
-# Build the Docker image
+* Build the Docker image
 docker build -t express.
 
-# Run the Docker container
+* Run the Docker container
 docker run -p 8000:8000 express
+
 This guarantees consistency in the environments for development and deployment. Despite not publishing the image to a public registry, the provided Dockerfile is enough to create and run the application.
 
 3. Authentication and Registration
